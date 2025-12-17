@@ -1,0 +1,1 @@
+console.log('The product is added to cart');

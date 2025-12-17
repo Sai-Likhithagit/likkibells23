@@ -1,0 +1,1 @@
+console.log('Payment amount is defined here');
